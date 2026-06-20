@@ -234,7 +234,7 @@ export default function SiteNavigation() {
           </span>
           <span className="site-brand-copy">
             <strong>{siteConfig.name}</strong>
-            <span>Creator growth agency</span>
+            
           </span>
         </a>
 
