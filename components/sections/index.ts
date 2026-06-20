@@ -1,0 +1,11 @@
+export { BenefitsSection } from "@/components/sections/benefits-section";
+export { BrandsSection } from "@/components/sections/brands-section";
+export { ContactSection } from "@/components/sections/contact-section";
+export { CreatorSection } from "@/components/sections/creator-section";
+export { CtaSection } from "@/components/sections/cta-section";
+export { FeatureStrip } from "@/components/sections/feature-strip";
+export { FloatingShapes } from "@/components/sections/floating-shapes";
+export { HeroSection } from "@/components/sections/hero-section";
+export { HighlightSection } from "@/components/sections/highlight-section";
+export { SiteFooter } from "@/components/sections/site-footer";
+export { TrophySection } from "@/components/sections/trophy-section";
